@@ -1,6 +1,12 @@
 ## Olá, eu sou o Henrique! 👋👋
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_henrique.belo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-de-moraes-75a711278/)
+<div>
+  <a href="https://instagram.com/_henrique.belo" tittle=Instagram target=_blank>
+    <img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/henrique-de-moraes-75a711278/" tittle=LinkedIn target=_blank>
+    <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
 ![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-bees&show_icons=true&theme=dark&count_private=true)
 ## O que estou estudando. 📖📚
