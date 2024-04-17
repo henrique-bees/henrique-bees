@@ -8,7 +8,12 @@
   </a>
 </div>
 
-![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-bees&show_icons=true&theme=dark&count_private=true)
+<div>
+   <a href="https://github.com/henrique-bees">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henrique-bees&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-bees&layout=compact&langs_count=6&theme=midnight-purple"/>
+</div>
+     
 ## O que estou estudando. 📖📚
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
