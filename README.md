@@ -1,9 +1,9 @@
 ## Olá, eu sou o Henrique! 👋👋
 <div>
-  <a href="https://instagram.com/_henrique.belo" tittle=Instagram target=_blank>
+  <a href="https://instagram.com/_henrique.belo" title="Instagram" target="_blank">
     <img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/henrique-de-moraes-75a711278/" tittle=LinkedIn target=_blank>
+  <a href="https://www.linkedin.com/in/henrique-de-moraes-75a711278/" title="LinkedIn" target="_blank">
     <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
