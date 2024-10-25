@@ -1,4 +1,9 @@
-## Olá, eu sou o Henrique! 👋👋
+## Hi, i'm Henrique! 👋👋
+I am a Computer Science student at UNIMA - Afya, currently in the second semester. I aim to work as a back-end developer. I have experience with Python and Java and have a good grasp of both technologies, but I am always open to learning to adapt to market demands.
+You can check my projects in: coming soon
+My hobbies are: playing video games, listen to music, train martial arts and do some handmade stuff.
+Nice to meet you!! 🙂🙃
+
 <div>
   <a href="https://instagram.com/_henrique.belo" title="Instagram" target="_blank">
     <img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
